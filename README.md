@@ -1,3 +1,3 @@
-# My Git PRoject
+# My Git Project
 
-> My code fro the git project
+> My code for the git project
